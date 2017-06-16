@@ -21,7 +21,7 @@ public class ArgosProjectTest {
 
     @Test
     public void testCheckMenu() throws InterruptedException {
-        Assert.assertEquals(steps.checkMenuInMainPagesStep(), "4K TV | Go Argos");
+        Assert.assertEquals(steps.checkMenuInMainPagesStep(), "4K TV | Go Argos 1");
     }
 
 
